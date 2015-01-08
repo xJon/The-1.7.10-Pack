@@ -8,4 +8,4 @@ The 1.7.10 Pack Official Repository
 - Also before opening an issue be sure you're using the latest version of the modpack, without any additional mods, with the latest version of Java (7 or 8) and a 64bit version of Java.
 
 ===============
-[The 1.7.10 Pack](http://bit.ly/The-1-7-10-Pack), The Big Magic-Tech Pack for 1.7.10
+#####[The 1.7.10 Pack](http://bit.ly/The-1-7-10-Pack), The Big Magic-Tech Pack for 1.7.10
