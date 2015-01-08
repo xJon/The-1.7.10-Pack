@@ -1,6 +1,6 @@
 The-1.7.10-Pack Repository
 ===============
-#Please read the following:
+####Please read the following:
 
 - Be sure to report any bug and/or leave suggestion to help improve the pack.
 - When you do report a bug, remember to provide a crash report and/or the latest log (the-1710-pack/logs) and/or the error text.
