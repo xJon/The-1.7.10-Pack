@@ -2,6 +2,9 @@ The 1.7.10 Pack Official Repository
 ===============
 ####Please read the following:
 
+This repository is for reporting bugs and providing suggestions for The 1.7.10 Pack.
+Before doing anything, be sure to read the information below.
+
 #####If you want to report a bug:
 - Remember to provide a crash report and/or the latest log (the-1710-pack/logs) and/or the error text.
 - To post the crash reports and/or the logs, use [this paste-tool](http://paste.ubuntu.com).
