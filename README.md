@@ -1,4 +1,4 @@
-The-1.7.10-Pack Repository
+The 1.7.10 Pack Official Repository
 ===============
 ####Please read the following:
 
