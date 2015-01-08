@@ -10,7 +10,7 @@ Before doing anything, be sure to read the information below.
 - To post the crash reports and/or the logs, use a [paste-tool](http://paste.ubuntu.com).
 - Be descriptive, and tell all the information you have. From when did the problem start, to what you estimate made the problem.
 - Mention if the problem occurs on client, server or the official server.
-- Also before opening an issue be sure you're using the latest version of the modpack, without any additional mods, with the latest version of Java (7 or 8) and a 64bit version of Java.
+- Before opening an issue be sure you're using the latest version of the modpack, without any additional mods, with the latest version of Java (7 or 8) and a 64bit version of Java.
  
 #####If you have a suggestion:
 - If you suggest a mod, include all the information about that mod.
