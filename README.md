@@ -16,5 +16,8 @@ Before doing anything, be sure to read the information below.
 - If you suggest a mod, include all the information about that mod.
 - Provide a reason.
 
+#####If you have a question:
+- Ask it clearly and nicely.
+
 ===============
 #####[The 1.7.10 Pack](http://bit.ly/The-1-7-10-Pack), The Big Magic-Tech Modpack for 1.7.10
