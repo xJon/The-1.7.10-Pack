@@ -13,6 +13,7 @@ Before doing anything, be sure to read the information below.
 - Before opening an issue be sure you're using the latest version of the modpack, without any additional mods, with the latest version of Java (7 or 8) and a 64bit version of Java.
  
 #####If you have a suggestion:
+- Check if anyone suggested this mod before you.
 - If you suggest a mod, include all the information about that mod.
 - Provide a reason.
 
