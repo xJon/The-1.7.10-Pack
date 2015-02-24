@@ -5,7 +5,7 @@ The 1.7.10 Pack Official Repository
 This repository is for reporting bugs and providing suggestions for The 1.7.10 Pack.
 Before doing anything, be sure to read the information below.
 
-#####If you want to report a bug:
+#####If you want to report a bug and or get help:
 - Remember to provide a crash report and/or the latest log (the-1710-pack/logs) and/or the error picture.
 - To post the crash reports and/or the logs, use a [paste-tool](http://paste.ubuntu.com).
 - Be descriptive, and tell all the information you have. From when did the problem start, to what you estimate made the problem.
