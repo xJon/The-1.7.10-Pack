@@ -2,7 +2,7 @@ The 1.7.10 Pack Official Repository
 ===============
 ####Please read the following:
 
-This repository is for reporting bugs and providing suggestions for The 1.7.10 Pack.
+This repository is for reporting bugs, providing suggestions and general support for The 1.7.10 Pack.
 Before doing anything, be sure to read the information below.
 
 #####If you want to report a bug and or get help:
