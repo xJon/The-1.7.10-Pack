@@ -15,7 +15,7 @@ Before doing anything, be sure to read the information below.
 - Double check for Herobrine.
  
 #####If you have a suggestion:
-- Check if anyone suggested this mod before you.
+- Check if anyone suggested this before you.
 - If you suggest a mod, include all the information about that mod.
 - Provide a reason.
 
