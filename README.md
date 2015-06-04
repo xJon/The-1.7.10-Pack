@@ -24,4 +24,4 @@ Before doing anything, be sure to read the information below.
 - Don't ask me about Ducks. Just don't. Please.
 
 ===============
-#####[The 1.7.10 Pack](http://bit.ly/The-1-7-10-Pack), The Big Magic-Tech Modpack for 1.7.10
+#####[The 1.7.10 Pack](http://the-1710-pack.com/), The Big Magic-Tech Modpack for 1.7.10
