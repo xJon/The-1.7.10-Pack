@@ -12,6 +12,7 @@ Before doing anything, be sure to read the information below.
 - Mention if the problem occurs on client and or server.
 - Mention if you're using Optifine. If you do, please check that you have the latest version of it.
 - Be descriptive, and tell all the information you have. From when did the problem start, to what you estimate made the problem.
+- Be sure you're using the original Technic Launcher in the latest version, and not a cracked one.
 - Double check for Herobrine.
  
 #####If you have a suggestion:
