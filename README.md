@@ -5,7 +5,7 @@ The 1.7.10 Pack Official Repository
 This repository is for reporting bugs, providing suggestions and general support for The 1.7.10 Pack.
 Before doing anything, be sure to read the information below.
 
-#####If you want to report a bug and or get help:
+#####If you want to report a bug and/or get general support:
 ######Please check that:
 - You're using the recommended/latest version of the modpack, without any additional mods 
 - You're using the latest version of Java (7 or 8) and a 64 bit version of it.
