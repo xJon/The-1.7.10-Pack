@@ -7,7 +7,7 @@ Before doing anything, be sure to read the information below.
 
 #####If you want to report a bug and/or get general support:
 ######Please check that:
-- You're using the recommended/latest version of the modpack, without any major additional mods 
+- You're using the recommended/latest version of the modpack, without any major additional mods.
 - You're using the latest version of Java (7 or 8) and a 64 bit version of it.
 - You have 4GB of RAM or more installed.
 - You're using the original Technic Launcher in its latest version, and not a cracked one.
