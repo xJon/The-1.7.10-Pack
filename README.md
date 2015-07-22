@@ -6,14 +6,19 @@ This repository is for reporting bugs, providing suggestions and general support
 Before doing anything, be sure to read the information below.
 
 #####If you want to report a bug and or get help:
-- Remember to provide a crash report and/or the latest log (the-1710-pack/logs) and/or the error picture.
+######Please check that:
+- You're using the recommended/latest version of the modpack, without any additional mods 
+- You're using the latest version of Java (7 or 8) and a 64 bit version of it.
+- You have 4GB of RAM or more installed.
+- You're using the original Technic Launcher in its latest version, and not a cracked one.
+- Double check for Herobrine.
+
+######If you have all that required, post an issue with:
+- A crash report and/or the latest log (the-1710-pack/logs; server-folder/logs), and/or the latest launcher log (.technic/logs).
 - To post the crash reports and/or the logs, use a [paste-tool](http://paste.ubuntu.com).
-- Be sure you're using the recommended/latest version of the modpack, without any additional mods, with the latest version of **Java (7 or 8) and a 64bit version of it**.
-- Mention if the problem occurs on client and or server.
+- Mention if the problem occurs on client and/or server.
 - Mention if you're using Optifine. If you do, please check that you have the latest version of it.
 - Be descriptive, and tell all the information you have. From when did the problem start, to what you estimate made the problem.
-- Be sure you're using the original Technic Launcher in the latest version, and not a cracked one.
-- Double check for Herobrine.
  
 #####If you have a suggestion:
 - Check if anyone suggested this before you.
