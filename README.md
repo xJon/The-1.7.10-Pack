@@ -10,7 +10,7 @@ Before doing anything, be sure to read the information below.
 - You're using the recommended/latest version of the modpack, without any major additional mods.
 - You're using the latest version of Java (7 or 8) and a 64 bit version of it.
 - You have 4GB of RAM or more installed.
-- You're using the original Technic Launcher in its latest version, and not a cracked one.
+- You're using the original Technic Launcher in its latest version, and cracked or modified launchers are NOT SUPPORTED!
 - Double check for Herobrine.
 
 ######If you have all that required, post an issue with:
