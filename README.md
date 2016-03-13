@@ -9,12 +9,12 @@ Before doing anything, be sure to read the information below.
 ######Please check that:
 - You're using the recommended/latest version of the modpack, without any major additional mods.
 - You're using the latest version of Java (7 or 8) and a 64 bit version of it.
-- You have 4GB of RAM or more installed.
-- You're using the original Technic Launcher in its latest version, and cracked or modified launchers are NOT SUPPORTED!
+- You have 4GB of RAM or more installed on your computer.
+- You're using the original Technic Launcher in its latest version, and not a cracked or modified launcher.
 - Double check for Herobrine.
 
 ######If you have all that required, post an issue with:
-- A crash report and/or the latest log (the-1710-pack/logs; server-folder/logs), and/or the latest launcher log (.technic/logs).
+- A crash report and/or the latest log (`/the-1710-pack/logs/`; `/server-folder/logs/`), and/or the latest launcher log (`/.technic/logs/`).
 - To post the crash reports and/or the logs, use a [paste-tool](http://paste.ubuntu.com).
 - Mention if the problem occurs on client and/or server.
 - Mention if you're using Optifine. If you do, please check that you have the latest version of it.
