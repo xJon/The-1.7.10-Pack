@@ -33,4 +33,4 @@ Before doing anything, be sure to read the information below.
 #####[The 1.7.10 Pack](http://the-1710-pack.com/), The Big Magic-Tech Modpack for 1.7.10
 (You can [support too](http://bit.ly/The-1-7-10-Pack-Donations))
 
-![The 1.7.10 Pack](http://i.imgur.com/ojW71W9.png)
+[![The 1.7.10 Pack](http://i.imgur.com/ojW71W9.png)](http://the-1710-pack.com)
