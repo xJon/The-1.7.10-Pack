@@ -1,6 +1,6 @@
 The 1.7.10 Pack Official Repository
 ===============
-[![Discord](https://discordapp.com/api/servers/96554564429299712/widget.png)](https://discord.gg/0XRCFkHskZH0DA3Q)
+[![Discord](https://discordapp.com/api/guilds/96554564429299712/widget.png)](https://discord.gg/0XRCFkHskZH0DA3Q)
 ####Please read the following:
 
 This repository is for reporting bugs, providing suggestions and general support.
