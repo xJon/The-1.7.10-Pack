@@ -31,6 +31,6 @@ Before doing anything, be sure to read all the information below.
 - Don't ask me about Ducks - just don't. Please.
 
 ===============
-[![The 1.7.10 Pack](http://i.imgur.com/ojW71W9.png)](http://the-1710-pack.com)
+[![The 1.7.10 Pack](http://i.imgur.com/SpfYnnB.png)](http://the-1710-pack.com)
 #####[The 1.7.10 Pack](http://the-1710-pack.com/), The Big Magic-Tech Modpack for 1.7.10
 (You can [support too](http://bit.ly/The-1-7-10-Pack-Donate))
