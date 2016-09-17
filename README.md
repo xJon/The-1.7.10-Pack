@@ -1,4 +1,4 @@
-The 1.7.10 Pack Official Repository
+The 1.7.10 Pack
 ===============
 [![Discord](https://discordapp.com/api/guilds/96554564429299712/widget.png)](https://discord.gg/0XRCFkHskZH0DA3Q)
 ####Please read the following:
