@@ -15,7 +15,7 @@ Before doing anything, be sure to read all the information below.
 - Herobrine has successfully been removed in version 0.5.4.
 
 ######If you have all that required, post an issue with:
-- A crash report and/or the latest log (`/.technic/modpacks/the-1710-pack/logs/`; `/<server-folder>/logs/`), and/or the latest launcher log (`/.technic/logs/`).
+- A crash report (`\.technic\modpacks\the-1710-pack\crash-reports\`) and/or the latest log (`\.technic\modpacks\the-1710-pack\logs\`; `\<server-folder>\logs\`), and/or the latest launcher log (`\.technic\logs\`).
 - To post the crash reports and/or the logs, use a [paste-tool](http://paste.ubuntu.com).
 - Mention if the problem occurs on client and/or server.
 - Mention if you're using Optifine. If you do, please check that you have the latest version of it.
