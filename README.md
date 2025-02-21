@@ -4,10 +4,8 @@ The 1.7.10 Pack
 
 This repository is for general support, reporting bugs, providing suggestions and general questions.
 
-You can [support back](https://bit.ly/The-1-7-10-Pack-Donation).
-
 ---
 
-<a href="https://the-1710-pack.com/"><img src="https://i.imgur.com/2RL6W8G.png" width="64"></a>
+<a href="https://www.technicpack.net/modpack/the-1710-pack"><img src="https://i.imgur.com/2RL6W8G.png" width="64"></a>
 
 All rights reserved.
